@@ -1,0 +1,125 @@
+/*-------------------------------------------HISTORIA----------------------------------------------*/
+#mainHistoria{
+	margin: 0 auto;
+	width: 85%;
+}
+
+
+footer{
+	margin-top: 3em;
+}
+
+@media(max-width: 768px){
+	main{
+		width: 100%;
+	}
+
+	.fotohistoria{
+		width: 100%;
+	}
+}
+
+@media(min-width: 769px){
+
+	.fotohistoria{
+		width: 75%;
+	}
+}
+
+.fotofooter{
+	width: 40px;
+	}
+
+.invertircolor{
+	filter: invert(100%);
+}
+
+.txtfooter{
+	display: inline-block;
+	margin-left: 20em; 	
+}
+
+.titulo{
+	text-align: center;
+}
+
+.historia{
+	text-align: justify;
+}
+
+#txthistoria{
+    vertical-align: middle;
+	width: 80%;
+}
+
+/*------------------------------------------------EXTINTOS-------------------------------------------------------------*/
+#mainExtintos{
+	margin: 0 auto;
+	width: 85%;
+}
+
+.accordion-body{
+	background: #595959;
+	color: #FFF;
+}
+
+.png{
+	width: 2.5em;
+}
+
+.diecinueve{
+	margin-left: 20em;
+}
+
+/*----------------------------------------COMPEQUIPOS Y SELECCION------------------------------------------------*/
+#maincompequipos{
+	margin: 0 auto;
+	width: 85%;
+}
+
+.colorh1{
+	background: #E9E9E9;
+}
+
+@media(max-width: 1024px){
+	.medio{
+		width: 80%;
+	}
+}
+
+@media(min-width: 1025px){
+	.medio{
+		width: 25%;
+	}
+}
+
+/*------------------------------------------------RECORDS-------------------------------------------------------------*/
+#mainrecords{
+	margin: 0 auto;
+	width: 85%;
+}
+
+@media(max-width: 900px){
+	.rpp{
+		width: 46.5%;
+	}
+}
+
+@media(min-width: 901px){
+	.rpp{
+		width: 20%;
+	}
+}
+
+section{
+	display: inline-block;
+}
+
+/*------------------------------------------------contacto-------------------------------------------------------------*/
+.abajo{
+	margin-top: 19.2em; 
+}
+
+.mediar{
+	margin-top: 5em;
+}
